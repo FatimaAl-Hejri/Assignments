@@ -1,6 +1,3 @@
-حل التكاليف النظري + العملي 
-الاسم : فاطمة الهجري
-IS , G2
 # حل التكاليف (النظري + العملي)
 **الاسم:** فاطمة الهجري - IS - G2
 
@@ -8,6 +5,7 @@ IS , G2
 
 * 📄 **[اضغطي هنا لفتح التكليف الأول](https://github.com/FatimaAl-Hejri/Assignments/blob/main/src/Assignment_1/Theoretical_Part.pdf?raw=true)**
 * 📄 **[اضغطي هنا لفتح التكليف الثاني](https://github.com/FatimaAl-Hejri/Assignments/blob/main/src/Assignment_2/Theoretical_Part.pdf?raw=true)**
+**
 *
 
 
