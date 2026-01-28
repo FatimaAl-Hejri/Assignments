@@ -1,12 +1,9 @@
 # حل التكاليف (النظري + العملي)
 **الاسم:** فاطمة الهجري - IS - G2
+دكتورة رفعت التكاليف النظري pdf بس ماعرفت ليه مارضى يفتح مع اني حاولت مره كثير وسويتهم كمان هنا
+حل اسالة التكليف الاول النظري 
+https://raw.githubusercontent.com/FatimaAl-Hejri/Assignments/main/src/Assignment_1/Theoretical_Part.pdf
 
-أهلاً دكتورة، يمكنكِ فتح الملفات مباشرة بالضغط على الروابط أدناه:
-
-* 📄 **[اضغطي هنا لفتح التكليف الأول](https://github.com/FatimaAl-Hejri/Assignments/blob/main/src/Assignment_1/Theoretical_Part.pdf?raw=true)**
-* 📄 **[اضغطي هنا لفتح التكليف الثاني](https://github.com/FatimaAl-Hejri/Assignments/blob/main/src/Assignment_2/Theoretical_Part.pdf?raw=true)**
-**
-*
 
 
 
